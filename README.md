@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, my name is Lucas.👋
+🚀 Tech enthusiast taking the first steps into the vast world of development. Proficient in markup languages like HTML and CSS, as well as programming in JavaScript and MySQL databases. Currently diving into Python studies, aspiring to be an excellent collaborator and open to new opportunities. Let's build something amazing together! 🌟
 <!--
 **lucaassos/lucaassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
