@@ -1,5 +1,5 @@
 ### Hello, my name is Lucas. 🤟🏻
-Tech enthusiast taking the first steps into the vast world of development. Proficient in markup languages like HTML and CSS, as well as programming in JavaScript and MySQL databases. Currently diving into Python studies, aspiring to be an excellent collaborator and open to new opportunities. Let's build something amazing together! 🚀
+Proficient in markup languages like HTML and CSS, programming in JavaScript and Python, and experienced with MySQL databases. Aspiring to be an excellent collaborator and always open to new opportunities. Let's build something amazing together! 🚀
 
 
 
