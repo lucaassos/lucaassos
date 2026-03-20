@@ -28,9 +28,21 @@ Sou especializado em arquitetura de dados, integrações complexas e desenvolvim
 
 ---
 
-📊 **Estatísticas do GitHub**
+---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Santailha&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santailha&layout=compact&theme=radium"/>
-</div>
+### 💼 Projetos em Destaque & Arquitetura
+
+* **Motor de Distribuição de Leads:** Arquitetura e automação de fluxos complexos para roteamento de leads, utilizando webhooks, processamento no n8n/Make.com e integração profunda com a API REST do Bitrix24.
+* **Assistente de IA para Corretores:** Desenvolvimento de solução inteligente focada no setor imobiliário, integrando LLMs para otimizar o atendimento, qualificação e rotinas diárias da operação.
+* **Sistema de Gestão Financeira:** Criação de dashboards dinâmicos e controle de requisições do zero, focando em performance e UX, construídos com ecossistema React/Next.js e Tailwind CSS.
+
+### 📫 Vamos nos conectar
+
+<p align="left">
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
