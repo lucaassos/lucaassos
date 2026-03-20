@@ -36,13 +36,3 @@ Sou especializado em arquitetura de dados, integrações complexas e desenvolvim
 * **Assistente de IA para Corretores:** Desenvolvimento de solução inteligente focada no setor imobiliário, integrando LLMs para otimizar o atendimento, qualificação e rotinas diárias da operação.
 * **Sistema de Gestão Financeira:** Criação de dashboards dinâmicos e controle de requisições do zero, focando em performance e UX, construídos com ecossistema React/Next.js e Tailwind CSS.
 
-### 📫 Vamos nos conectar
-
-<p align="left">
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
