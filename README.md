@@ -31,6 +31,6 @@ Sou especializado em arquitetura de dados, integrações complexas e desenvolvim
 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucaassos&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaassos&layout=compact&theme=radium"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Santailha&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santailha&layout=compact&theme=radium"/>
 </div>
