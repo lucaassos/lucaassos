@@ -48,7 +48,7 @@ Lidero e desenvolvo o núcleo tecnológico focado em escalabilidade, tempo real 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santailha&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Troféus GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=Santailha&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
