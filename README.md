@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas 🤟🏻
-**Automation Engineer & Full Stack Developer @Santa Ilha Imóveis**
+**Automation Engineer & Full Stack Developer @Santailha**
 
 A minha missão é transformar o mercado imobiliário através de código, dados e automação avançada. Foco a minha engenharia na criação de uma jornada fluida, otimizando a operação desde a captação do cliente até ao fecho do negócio, garantindo que a tecnologia potencie o trabalho dos consultores e a experiência dos utilizadores.
 
