@@ -48,7 +48,7 @@ Lidero e desenvolvo o núcleo tecnológico focado em escalabilidade, tempo real 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lucaassos&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Santailha&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
